@@ -1,6 +1,7 @@
 # LeetCode Questions
 # 1.Two Sum / Easy
 
+
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         n = len(nums)
