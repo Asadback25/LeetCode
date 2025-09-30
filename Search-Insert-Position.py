@@ -1,6 +1,7 @@
 # LeetCode Questions
 # 35. Search Insert Position / Easy
 
+
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
         L = 0
