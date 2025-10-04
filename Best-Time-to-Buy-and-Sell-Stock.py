@@ -1,5 +1,5 @@
 # LeetCode
-# 121. Best Time To Buy And Seel Stock / Easy
+# 121. Best Time To Buy And Sell Stock / Easy
 # Time: O(n), Space: O(1)
 
 class Solution:
