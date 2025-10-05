@@ -1,7 +1,6 @@
 # LeetCode
 # 217. Contains Duplicate / Easy
 # Time: O(n), Space: O(n)
-
 # 1st way
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
